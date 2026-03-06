@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋
 
-<!--
-**luchocarlos/luchocarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luis Carlos Martinez; Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+💻 Web Developer focused on building modern web applications.  
+🎓 Systems Engineering student.  
+🚀 Passionate about learning new technologies and building real solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🌱 Currently improving my skills in **Full Stack Development**
+- ⚛️ Working mainly with **React**
+- 📱 Learning **Flutter**
+- 💻 Building web projects
+- 🔧 Experience with **technical support and customer service systems**
+
+## 🎯 Goals
+
+- Become a **strong Full Stack Developer**
+- Build scalable and secure applications
+- Continue learning new technologies and frameworks
