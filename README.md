@@ -1,6 +1,6 @@
 Hi 👋
 
-I'm Luis Carlos Martinez; Welcome to my GitHub profile.
+I'm Luis Carlos; Welcome to my GitHub profile.
 
 💻 Web Developer focused on building modern web applications.  
 🎓 Systems Engineering student.  
