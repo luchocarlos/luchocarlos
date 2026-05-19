@@ -8,20 +8,20 @@ Soy Luis Carlos; bienvenido a mi perfil de GitHub. / I'm Luis Carlos; Welcome to
 
 🧑‍💻 Sobre mí / 🧑‍💻 About Me
 
-🌱 Actualmente mejorando mis habilidades en Desarrollo Full Stack / - 🌱 Currently improving my skills in Full Stack Development
+🌱 Actualmente mejorando mis habilidades en Desarrollo Full Stack / 🌱 Currently improving my skills in Full Stack Development
 
-⚛️ Trabajo principalmente con React / - ⚛️ Working mainly with React
+⚛️ Trabajo principalmente con React / ⚛️ Working mainly with React
 
-📱 Aprendiendo Flutter / - 📱 Learning Flutter
+📱 Aprendiendo Flutter /  📱 Learning Flutter
 
-💻 Construyendo proyectos web / - 💻 Building web projects
+💻 Construyendo proyectos web /  💻 Building web projects
 
-🔧 Experiencia en soporte técnico y sistemas de atención al cliente / - 🔧 Experience with technical support and customer service systems
+🔧 Experiencia en soporte de software/  🔧 Experience with software support
 
 🎯 Metas / 🎯 Goals
 
-Convertirme en un desarrollador Full Stack sólido / - Become a strong Full Stack Developer
+Convertirme en un desarrollador Full Stack sólido / Become a strong Full Stack Developer
 
-Construir aplicaciones escalables y seguras / - Build scalable and secure applications
+Construir aplicaciones escalables y seguras / Build scalable and secure applications
 
-Seguir aprendiendo nuevas tecnologías y frameworks / - Continue learning new technologies and frameworks
+Seguir aprendiendo nuevas tecnologías y frameworks / Continue learning new technologies and frameworks
