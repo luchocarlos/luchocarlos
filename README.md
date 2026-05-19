@@ -1,21 +1,26 @@
-Hi 👋
+Hola 👋 / Hi 👋
+Soy Luis Carlos; bienvenido a mi perfil de GitHub. / I'm Luis Carlos; Welcome to my GitHub profile.
 
-I'm Luis Carlos; Welcome to my GitHub profile.
+💻 Desarrollador web enfocado en crear aplicaciones web modernas. / 💻 Web Developer focused on building modern web applications.
+🎓 Estudiante de Ingeniería de Sistemas. / 🎓 Systems Engineering student.
+🚀 Apasionado por aprender nuevas tecnologías y construir soluciones reales. / 🚀 Passionate about learning new technologies and building real solutions.
 
-💻 Web Developer focused on building modern web applications.  
-🎓 Systems Engineering student.  
-🚀 Passionate about learning new technologies and building real solutions.
+🧑‍💻 Sobre mí / 🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+🌱 Actualmente mejorando mis habilidades en Desarrollo Full Stack / - 🌱 Currently improving my skills in Full Stack Development
 
-- 🌱 Currently improving my skills in **Full Stack Development**
-- ⚛️ Working mainly with **React**
-- 📱 Learning **Flutter**
-- 💻 Building web projects
-- 🔧 Experience with **technical support and customer service systems**
+⚛️ Trabajo principalmente con React / - ⚛️ Working mainly with React
 
-## 🎯 Goals
+📱 Aprendiendo Flutter / - 📱 Learning Flutter
 
-- Become a **strong Full Stack Developer**
-- Build scalable and secure applications
-- Continue learning new technologies and frameworks
+💻 Construyendo proyectos web / - 💻 Building web projects
+
+🔧 Experiencia en soporte técnico y sistemas de atención al cliente / - 🔧 Experience with technical support and customer service systems
+
+🎯 Metas / 🎯 Goals
+
+Convertirme en un desarrollador Full Stack sólido / - Become a strong Full Stack Developer
+
+Construir aplicaciones escalables y seguras / - Build scalable and secure applications
+
+Seguir aprendiendo nuevas tecnologías y frameworks / - Continue learning new technologies and frameworks
