@@ -1,8 +1,9 @@
 Hola 👋 / Hi 👋
+
 Soy Luis Carlos; bienvenido a mi perfil de GitHub. / I'm Luis Carlos; Welcome to my GitHub profile.
 
+🎓 Estudiante de Ingeniería de Software. / 🎓 Software Engineering student.
 💻 Desarrollador web enfocado en crear aplicaciones web modernas. / 💻 Web Developer focused on building modern web applications.
-🎓 Estudiante de Ingeniería de Sistemas. / 🎓 Systems Engineering student.
 🚀 Apasionado por aprender nuevas tecnologías y construir soluciones reales. / 🚀 Passionate about learning new technologies and building real solutions.
 
 🧑‍💻 Sobre mí / 🧑‍💻 About Me
